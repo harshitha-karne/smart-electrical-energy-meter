@@ -8,6 +8,7 @@ from measurements import calculate_parameters
 from power_quality import calculate_thd
 from event_detection import detect_voltage_events
 
+st.set_option("client.toolbarMode", "minimal")
 
 # ==================================================
 # 1. PAGE CONFIGURATION
