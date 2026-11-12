@@ -6,6 +6,14 @@
 
 This project presents a software-based Smart Electrical Energy Meter developed using Python. It simulates electrical signals and performs real-time electrical parameter measurement, energy consumption calculation, harmonic analysis and power quality monitoring through an interactive Streamlit dashboard.
 
+## Live Demo
+
+The Smart Electrical Energy Meter application is deployed using Streamlit Community Cloud.
+
+**Live Application:** [Smart Electrical Energy Meter](https://smart-electrical-energy-meter-fmqfooejqbcbjhsmdmf26p.streamlit.app/)
+
+https://smart-electrical-energy-meter-fmqfooejqbcbjhsmdmf26p.streamlit.app/
+
 ## Features
 
 - AC voltage and current signal generation
